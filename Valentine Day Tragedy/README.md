@@ -1,4 +1,7 @@
+# VALENTINE DAY TRAGEDY - HACKTORIA CONTRACT
+
 February 11, 2023 Ref : https://hacktoria.com/community-contracts/valentines-day-tragedy/
+Thanks to @leroux for this Challenge !
 
 The kidnapper of Thalia's beloved has left a encrypted note :
 
