@@ -36,27 +36,17 @@ After analysing this Google Street View we can determine :
 The challenge author gives an advice on Discord channel about the location : Near Reims in France.
 
 Let's try with overpass turbo !
-
-`[out:json][timeout:25];`
-
-`// gather results`
-
-`(`
-
-`  // query part for: “sawmill”`
-
-`  nwr["craft"="sawmill"]({{bbox}});`
-
-`);`
-
-`// print results`
-
-`out body;`
-
-`>;`
-
-`out skel qt;`
-
+```
+[out:json][timeout:25];
+// gather results
+(
+nwr["craft"="sawmill"]({{bbox}});
+);
+// print results
+out body;
+>;
+out skel qt;
+```
 Few results are returned but no match with the sawmill on the photo
 
 Using `  nwr["name"="Scierie"]({{bbox}});` return one correct result :
