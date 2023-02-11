@@ -35,14 +35,23 @@ The challenge author give an advice on Discord channel about the location : Near
 Let's try with overpass turbo !
 
 `[out:json][timeout:25];`
+
 `// gather results`
+
 `(`
+
 `  // query part for: “sawmill”`
+
 `  nwr["craft"="sawmill"]({{bbox}});`
+
 `);`
+
 `// print results`
+
 `out body;`
+
 `>;`
+
 `out skel qt;`
 
 Few result are returned but no match with the sawmill on the photo
