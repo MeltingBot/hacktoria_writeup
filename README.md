@@ -1,2 +1,2 @@
-Here you will find several [Hacktoria](https://hacktoria.com/) Writeup
+Here you will find several [Hacktoria](https://hacktoria.com/) Writeups
 
