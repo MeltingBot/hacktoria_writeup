@@ -64,6 +64,7 @@ The location is [**Scierie Huberlant**](https://goo.gl/maps/88Ya6u5fmPAck8vM7)
 ## The Cellular Tower 
 
 Let's enter that in Telegram Bot discussion !
+
 ![](Telegram_tower.png)
 
 We got now a GSM Tower/Cell location 
