@@ -14,13 +14,13 @@ The decoded message is :
 
 We need to contact a Telegram Bot named **TheHighGuard_Bot**
 
-![[Telegram_Bot.png]]
+![](Telegram_Bot.png)
 
 Two commands are available /location and /secret
 
 The secret is provided in the ROT8000 Message : **For Your Eyes Only**
 
-![[Telegram_sawmill.png]]
+![](Telegram_sawmill.png)
 
 ## The Sawmill
 
@@ -49,14 +49,14 @@ Few result are returned but no match with the sawmill on the photo
 
 Using `  nwr["name"="Scierie"]({{bbox}});` return one correct result :
 
-![[Openstreetmap_location.png]]
+![](Openstreetmap_location.png)
 
 A sawmill located in Cormicy (Marne) match the photo
 
-![[sawmill_aerial.png]]
+![](sawmill_aerial.png)
 
 
-![[Streetview_sawmill.png]]
+![](Streetview_sawmill.png)
 
 The location is [**Scierie Huberlant**](https://goo.gl/maps/88Ya6u5fmPAck8vM7)
 
@@ -64,7 +64,7 @@ The location is [**Scierie Huberlant**](https://goo.gl/maps/88Ya6u5fmPAck8vM7)
 ## The Cellular Tower 
 
 Let's enter that in Telegram Bot discussion !
-![[Telegram_tower.png]]
+![](Telegram_tower.png)
 
 We got now a GSM Tower/Cell location 
 
@@ -74,11 +74,11 @@ Using [OpenCellID](https://opencellid.org/) we can locate the mobile tower (BTS)
 
 Location is center of Paris
 
-![[OpenCell_Location.png]]
+![](OpenCell_Location.png)
 
 Finding the address of *Grand Duc Restaurant* give a result :
 
-![[GoogleMap_Location.png]]
+![](GoogleMap_Location.png)
 
 
 The beloved is located in *Rue de Picardie Paris*
