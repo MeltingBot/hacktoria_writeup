@@ -30,10 +30,10 @@ The secret is provided in the ROT8000 Message : **For Your Eyes Only**
 After analysing this Google Street View we can determine :
 
 - It could be a sawmill plant
-- A lot of palette are stored outside the building
+- A lot of palettes are stored outside the building
 - A small pathway is running at side of the green fence
 
-The challenge author give an advice on Discord channel about the location : Near Reims in France.
+The challenge author gives an advice on Discord channel about the location : Near Reims in France.
 
 Let's try with overpass turbo !
 
@@ -57,7 +57,7 @@ Let's try with overpass turbo !
 
 `out skel qt;`
 
-Few result are returned but no match with the sawmill on the photo
+Few results are returned but no match with the sawmill on the photo
 
 Using `  nwr["name"="Scierie"]({{bbox}});` return one correct result :
 
@@ -83,7 +83,7 @@ We got now a GSM Tower/Cell location
 
 MCC (**Mobile Country Code**) and MNC (**Mobile Network Code**) refer to SFR Telecom Provider
 
-Using [OpenCellID](https://opencellid.org/) we can locate the mobile tower (BTS)
+Using [OpenCellID](https://opencellid.org/) we can locate the mobile tower (BTS) with LAC and Cell ID
 
 Location is center of Paris
 
