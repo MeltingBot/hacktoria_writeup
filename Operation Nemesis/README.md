@@ -63,7 +63,7 @@ Valencia in Spain ?!
 
 Not the same point of view :
 
-![[valencia_streetview.png]]
+![[](valencia_streetview.png)
 
 Maybe a little rabbit hole ?
 
@@ -75,8 +75,7 @@ Again, nothing interesting in Maps Contrib and Calendar.
 
 A further look in images gallery give us a little hint :
 
-![[source_image.png]]
-
+![](screen_source.png.png)
 What is this strange **p** tag ? 
 
 ## The Dropbox
