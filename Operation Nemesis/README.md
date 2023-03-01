@@ -63,7 +63,7 @@ Valencia in Spain ?!
 
 Not the same point of view :
 
-![[](valencia_streetview.png)
+![](valencia_streetview.png)
 
 Maybe a little rabbit hole ?
 
